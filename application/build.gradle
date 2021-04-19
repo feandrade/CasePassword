@@ -1,0 +1,11 @@
+apply plugin: 'application'
+
+mainClassName = "com.clean.arquitecture.Boot"
+
+dependencies{
+    compile project(":entities")
+    compile project(":usecases")
+    compile project(":web")
+
+
+}

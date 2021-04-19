@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/case-password.iml" filepath="$PROJECT_DIR$/.idea/modules/case-password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/case-password.application.iml" filepath="$PROJECT_DIR$/.idea/modules/application/case-password.application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/case-password.application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/case-password.application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/case-password.application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/application/case-password.application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/case-password.entities.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/case-password.entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/case-password.entities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/case-password.entities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/case-password.entities.test.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/case-password.entities.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/case-password.main.iml" filepath="$PROJECT_DIR$/.idea/modules/case-password.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/case-password.test.iml" filepath="$PROJECT_DIR$/.idea/modules/case-password.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/case-password.usecases.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/case-password.usecases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/case-password.usecases.main.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/case-password.usecases.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usecases/case-password.usecases.test.iml" filepath="$PROJECT_DIR$/.idea/modules/usecases/case-password.usecases.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/case-password.web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/case-password.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/case-password.web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/case-password.web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/case-password.web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/case-password.web.test.iml" />
+    </modules>
+  </component>
+</project>

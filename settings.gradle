@@ -1,0 +1,6 @@
+rootProject.name = 'case-password'
+
+include 'application'
+include 'usecases'
+include 'entities'
+include 'web'

@@ -1,0 +1,1 @@
+C:\Cursos\CasePassword\entities\build\classes\kotlin\main\com\clean\arquitecture\domain\exception\ApiError.class
